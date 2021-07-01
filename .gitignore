@@ -1,3 +1,4 @@
 .vscode
 Pipfile.lock
 .env
+avito-test.code-workspace
